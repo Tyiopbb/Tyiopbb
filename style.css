@@ -1,0 +1,64 @@
+.f2{
+}
+.f2{
+background:linear-gradient(#fff);
+border-color:red;
+}
+.f2 p{
+border-color:red;
+border-width:2px;
+border-style:groove;
+}
+.l{
+color:navy;
+font-weight:900;
+font-family:fantasy;
+font-size:18px;
+}
+u{
+text-decoration:none;
+
+}
+p{
+display:flex;
+justify-content:space-between;
+font-weight:300;
+color:navy;
+background:;
+border:1px solid #fff;
+padding:10px;
+
+}
+
+fieldset {
+direction:ltr;
+margin-top:100px;
+display:flex;
+justify-content:center;
+border-width:3px;
+}
+
+input{
+border:none;
+background:transparent;
+color:navy;
+font-weight:300;
+font-size:16px;
+text-transform:capitalize;
+}
+.im{
+width:100%;
+}
+body {
+width:100%;
+margin:0;
+padding:0;
+}
+button {
+border-radius:10px;
+padding:5px;
+border:1px solid #fff;
+background:transparent;
+font-weight:300;
+box-shadow:0px 0px 3px 3px rgba(0,0,0,0.2);
+}
